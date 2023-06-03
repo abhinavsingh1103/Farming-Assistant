@@ -1,3 +1,4 @@
+# Phase 1: Getting 
 import requests
 import openpyxl
 from bs4 import BeautifulSoup
